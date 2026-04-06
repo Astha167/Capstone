@@ -1,0 +1,31 @@
+public ==entire project
+default=only package(no need to write anyhting)
+protected==in package easily but outside using inheritance
+private==only class
+
+camelcase used in methods (iLoveJavaLanguage)
+pascalcase used on classes(ILoveJavaLanguage)
+
+
+static belongs to the class itself and not the instance of the class
+
+
+Single level inheritance
+Grandfather class--- parent class
+   |
+   |
+   |
+   Father class - child class  <---- Single level inheritance
+   |
+   |
+   |
+   Son class-- child class of father <---- Multi level inheritance
+   
+ --------------Ambiguity/Diamond Problem--- Why java does not support multiple inheritance?
+ 
+ //task :
+ Create a class Dad and write a method cooking that prints "Dad cooks spicy food"
+ 
+ Create a class Mom and write a method cooking that prints "Mom cooks slowly and tasty"
+ 
+ Create a Kitchen class with main method and call cooking method of Dad and Mom.
