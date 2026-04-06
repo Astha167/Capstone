@@ -29,3 +29,27 @@ Grandfather class--- parent class
  Create a class Mom and write a method cooking that prints "Mom cooks slowly and tasty"
  
  Create a Kitchen class with main method and call cooking method of Dad and Mom.
+ 
+ Create a Son class and print cooking method of either father/ mother can you print boths?
+ if java would have allowed multiple inheritance method then
+ 
+                          Cooking
+                          
+        Mom                                   Dad
+        
+                           Son
+                           
+ Interfaces are part of abstraction , abstract classes don't have their own body.
+ 
+ Multiple inheritance  can be performed using interfaces.
+ 
+ Write a java program to give the below
+ 512 256 128 64 32 16 8 4 2
+ 
+ Reverse an Array in java
+ [4,6,8,9,12];
+ Output
+ [12,9,8,6,4]
+ 
+ 
+ leetcode 189. Rotate Array
