@@ -1,0 +1,11 @@
+Sorting
+Bubble Sort: It repeatedly compares adjacent element and swaps them if out of order.Each passes a "bubble" the biggest/largest
+unsorted element to its correct order position. Usually the time complexity is O(n2) worst/average.O(n) best(optimized) Space O(1).
+
+
+Merge Sort: (Divide and Conquer) . It divides the array in half recursively, sorts each half and then merges them. It is a classic divide and conquer algorithm.
+Time complexity: O(nlogn) Always
+Space: O(n)
+
+leetcode 912. Sort an Array
+leetcode 189. Rotate an Array
